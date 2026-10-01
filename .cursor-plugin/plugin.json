@@ -1,0 +1,19 @@
+{
+  "name": "moonscroll",
+  "displayName": "Moonscroll",
+  "description": "Short Form Video Insights for Instagram, TikTok, Shorts",
+  "version": "1.0.0",
+  "homepage": "https://moonscroll.ai/",
+  "repository": "https://github.com/YOUR_GITHUB_USERNAME/moonscroll-mcp",
+  "license": "MIT",
+  "keywords": [
+    "mcp",
+    "moonscroll",
+    "instagram",
+    "tiktok",
+    "youtube-shorts",
+    "short-form-video",
+    "video-insights"
+  ],
+  "logo": "assets/logo.svg"
+}

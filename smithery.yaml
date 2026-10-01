@@ -1,0 +1,27 @@
+# Smithery configuration for Moonscroll — remote hosted MCP only.
+# Upstream endpoint: https://api.moonscroll.ai/mcp
+# No local runtime; clients connect over Streamable HTTP.
+
+name: moonscroll
+target: remote
+
+startCommand:
+  type: http
+  url: https://api.moonscroll.ai/mcp
+  configSchema:
+    type: object
+    properties: {}
+    additionalProperties: false
+  exampleConfig: {}
+
+metadata:
+  homepage: https://moonscroll.ai/
+  documentation: https://api.moonscroll.ai/docs/
+  tags:
+    - moonscroll
+    - instagram
+    - tiktok
+    - youtube-shorts
+    - short-form-video
+    - video-insights
+    - remote-mcp

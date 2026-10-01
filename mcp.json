@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "moonscroll": {
+      "url": "https://api.moonscroll.ai/mcp"
+    }
+  }
+}
